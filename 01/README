@@ -1,0 +1,30 @@
+eran.turgeman, elayaharoni
+===============================================================================
+Eran Turgeman, ID 208484147, eran.turgeman@mail.huji.ac.il
+Elay Aharoni, ID 315533968, elay.aharoni@mail.huji.ac.il
+===============================================================================
+
+                           Project 1 - An HDL File
+                           ----------------------- 
+  
+Submitted Files
+---------------
+README - This file.
+Not.hdl - Not gate implementetion.
+And.hdl - And gate implementetion.
+Or.hdl - Or gate implementetion.
+Xor.hdl - Xor gate implementetion.
+Mux.hdl - Mux gate implementetion.
+DMux.hdl - DMux gate implementetion.
+Not16.hdl - Not16 gate implementetion.
+And16.hdl - And16 gate implementetion.
+Or16.hdl - Or16 gate implementetion.
+Mux16.hdl - Mux16 gate implementetion.
+Or8Way.hdl - Or8Way gate implementetion.
+Mux4Way16.hdl - Mux4Way16 gate implementetion.
+Mux8Way16.hdl - Mux8Way16 gate implementetion.
+DMux4Way.hdl - DMux4Way gate implementetion.
+DMux8Way.hdl - DMux8Way gate implementetion.
+
+Remarks
+-------
